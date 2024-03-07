@@ -1,8 +1,9 @@
 # This is my Java class Home Work . 
 ## Day1. use java
 Use Ecilpse compile my java
-coding -> complie -> -> .class -> JVM -> System . 
-java is a croos-platform software (跨平台）
+	
+	coding -> complie -> -> .class -> JVM -> System 
+	java is a croos-platform software (跨平台）
 
 ### How to use import java.until.scanner;
 
