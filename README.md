@@ -5,7 +5,7 @@ Use Ecilpse compile my java
 	coding -> complie -> -> .class -> JVM -> System 
 	java is a croos-platform software (跨平台）
 
-### How to use import java.until.scanner;
+How to use import java.until.scanner;
 
 	Scanner s = new Scanner(System.in);    //初始化 Scanner
 	System.out.println("print somthing"); 
