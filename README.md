@@ -7,7 +7,8 @@ Use Ecilpse compile my java
 
 How to use import java.until.scanner;
 
-	Scanner s = new Scanner(System.in);    //初始化 Scanner
+	Scanner s = new Scanner(System.in);    //初始化 Scanner 讀取鍵盤數值需要輸入(System.in)
 	System.out.println("print somthing"); 
-	String name = s.next();    //使用者輸入字串存s         // 根據不同型態next有所不同
+	String name = s.next();    // 因初始化時指派s物件 接下來都需要s.next() = 鍵盤數值
+ 
     			 
